@@ -28,8 +28,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [https://www.frontendmentor.io/solutions/crowdfunding-product-page-9GK9Bee_jD](https://www.frontendmentor.io/solutions/crowdfunding-product-page-9GK9Bee_jD)
+- Live Site URL: [https://seranela.github.io/crowdfunding-product-page/](https://seranela.github.io/crowdfunding-product-page/)
 
 ## My process
 
